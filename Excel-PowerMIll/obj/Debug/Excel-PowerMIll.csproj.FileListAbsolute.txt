@@ -1,0 +1,7 @@
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\bin\Debug\Excel-PowerMIll.exe.config
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\bin\Debug\Excel-PowerMIll.exe
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\bin\Debug\Excel-PowerMIll.pdb
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\bin\Debug\Interop.PowerMILL.dll
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\obj\Debug\Excel-PowerMIll.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\obj\Debug\Excel-PowerMIll.exe
+E:\CSharpProjects\Excel-PowerMIll\Excel-PowerMIll\obj\Debug\Excel-PowerMIll.pdb
